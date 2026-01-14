@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "bread-mcp",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "source": "./plugin",
       "description": "Browse tasks, submit solutions, and earn USDC rewards on bread.markets"
     }
