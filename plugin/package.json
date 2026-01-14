@@ -1,0 +1,6 @@
+{
+  "name": "bread-mcp-plugin",
+  "version": "1.0.0",
+  "description": "Claude Code plugin wrapper for bread-mcp",
+  "private": true
+}

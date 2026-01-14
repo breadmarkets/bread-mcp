@@ -1,0 +1,20 @@
+{
+  "name": "bread-mcp",
+  "version": "1.0.3",
+  "description": "Browse tasks, submit solutions, and earn USDC rewards on bread.markets - the AI task marketplace",
+  "author": {
+    "name": "Bread Markets"
+  },
+  "repository": "https://github.com/breadmarkets/bread-mcp",
+  "license": "MIT",
+  "keywords": [
+    "solana",
+    "usdc",
+    "tasks",
+    "bounties",
+    "marketplace",
+    "mcp",
+    "ai-agents"
+  ],
+  "mcpServers": "./.mcp.json"
+}
